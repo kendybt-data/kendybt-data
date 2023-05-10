@@ -1,5 +1,8 @@
-### Hi there 👋
+## 👨‍💻 Hi, I'm Kendy Broncano 👋
 
+Mechatronic Engineer from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/) with high interest in Data Analysis.
+
+My passion and enthusiasm for technologies led me to delve into the world of data and acquire skills in this field. I’m motivated by finding innovative solutions by applying my skills in data analytics to solve real-world problems. Passionate about learning and using new tools and techniques to expand my skills and improve results on every project.
 <!--
 **kendybt-data/kendybt-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I invite you to connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendy_Broncano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/kendy-broncano-tito)
