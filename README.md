@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 ## I invite you to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendy_Broncano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/kendy-broncano-tito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kendy_Broncano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kendy-broncano-tito)
