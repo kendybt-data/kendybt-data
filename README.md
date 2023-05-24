@@ -1,4 +1,4 @@
-## 👨‍💻 Hi, I'm Kendy Broncano 👋
+## 👋Hi, I'm Kendy Broncano👨‍💻
 
 Mechatronic Engineer from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/) with high interest in Data Analysis.
 
