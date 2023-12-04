@@ -1,6 +1,6 @@
 ## 👋Hi, I'm Kendy Broncano👨‍💻
 
-Mechatronic Engineer from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/) with high interest in Data Analysis.
+Mechatronic Engineer from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/) with high interest in Data Analysis & Science.
 
 My passion and enthusiasm for technologies led me to delve into the world of data and acquire skills in this field. I’m motivated by finding innovative solutions by applying my skills in data analytics to solve real-world problems. Passionate about learning and using new tools and techniques to expand my skills and improve results on every project.
 <!--
